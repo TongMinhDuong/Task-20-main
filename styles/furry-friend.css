@@ -1,0 +1,15 @@
+#click-me{
+    padding: 20px;
+    display: block;
+    width: 205px;
+    background: #33FF66;
+    border: black solid 2px;
+    text-align: center;
+}
+#picFrame{
+    background-color: #33FF66;
+    padding: 20px;
+    width: 205px;
+    display: none;
+    border: black solid 2px;
+}
